@@ -1,4 +1,5 @@
-##SwitchMedia Programming Challenge
+SwitchMedia Programming Challenge
+=================================
 
 ### Running it via Docker image from Docker Hub
 It's the most convinient way to use it. Just run:
